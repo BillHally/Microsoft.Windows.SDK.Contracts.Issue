@@ -1,0 +1,4 @@
+.paket
+.vs
+paket-files
+**/Properties/launchSettings.json

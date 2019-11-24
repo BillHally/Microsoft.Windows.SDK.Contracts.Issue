@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <FSharpCompilerPath>$(MSBuildThisFileDirectory)</FSharpCompilerPath>
+  </PropertyGroup>
+</Project>

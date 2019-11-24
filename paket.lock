@@ -1,0 +1,15 @@
+STORAGE: NONE
+RESTRICTION: == netcoreapp3.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.7)
+    Microsoft.NETCore.Platforms (3.0)
+    Microsoft.Windows.SDK.Contracts (10.0.18362.2005)
+      System.Runtime.WindowsRuntime (>= 4.6)
+      System.Runtime.WindowsRuntime.UI.Xaml (>= 4.6)
+    Mono.Cecil (0.11.1)
+    System.Runtime.WindowsRuntime (4.6)
+      Microsoft.NETCore.Platforms (>= 3.0)
+    System.Runtime.WindowsRuntime.UI.Xaml (4.6)
+      Microsoft.NETCore.Platforms (>= 3.0)
+      System.Runtime.WindowsRuntime (>= 4.6)
